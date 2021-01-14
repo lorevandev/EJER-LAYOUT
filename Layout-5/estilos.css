@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.encabezado{
+    background-color: rgb(250, 181, 228);
+    width: 60%;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    float: right;
+}
+
+.section{
+    width: 60%;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    float: right;
+}
+
+.pie{
+    background-color: rgb(202, 157, 247);
+    width: 60%; 
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    float:right;
+}
+
+.lateral{
+    background-color: rgb(240, 118, 169);
+    width:40%;
+    height: 800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}   

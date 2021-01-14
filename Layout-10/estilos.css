@@ -1,0 +1,56 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.encabezado{
+    background-color:rgb(250, 181, 228);
+    width: 60%;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    float: left;
+}
+
+.barra-nav{
+    background-color: rgb(171, 105, 238);
+    width: 60%;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    float: left;
+}
+
+.section{
+    width: 60%;
+    height: 450px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    float: left;
+}
+
+
+.pie{
+    background-color: rgb(202, 157, 247);
+    width: 60%;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    float: left;
+}
+
+
+.lateral{
+    background-color: rgb(240, 118, 169);
+    width: 40%;
+    height: 800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    float: right;
+}

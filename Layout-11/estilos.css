@@ -1,0 +1,50 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.encabezado{
+    background-color: rgb(250, 181, 228);
+    width: 100%;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.section{
+    width:50%;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.lateral-izquierdo{
+    background-color: rgb(240, 118, 169);
+    width: 25%;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    float: left;
+}
+
+.lateral-derecho{
+    background-color: rgb(240, 118, 169);
+    width: 25%;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    float: right;
+}
+
+.pie{
+    background-color:  rgb(202, 157, 247);
+    width: 100%;
+    height: 150px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
