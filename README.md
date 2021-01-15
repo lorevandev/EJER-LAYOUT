@@ -5,8 +5,8 @@ Contiene los distintos bloques que componen una página web.
 
 - HEAD
 - NAVBAR
-- SLIDE
-- BODY
+- SIDEBAR
+- MAIN CONTENT
 - SECTION
 - ARTICLE
 - FOOTER
